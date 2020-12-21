@@ -12,6 +12,8 @@ int main()
 {
 
 	cout << "\nThis is a new program";
+
+	cout << endl;
 	
 	cout << endl << endl;
 	system("pause");
